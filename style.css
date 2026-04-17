@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #69c0ff;
+  background: #f4f8ff;
   color: #0b1b3a;
 }
 
 header {
   text-align: center;
   padding: 50px 20px;
-  background: #69c0ff;
+  background: #2f80ed;
   color: white;
 }
 
@@ -18,7 +18,7 @@ header h1 {
 }
 
 header p {
-  opacity: 0.85;
+  opacity: 0.9;
 }
 
 .grid {
@@ -33,7 +33,7 @@ header p {
   border-radius: 14px;
   padding: 20px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-  border-left: 5px solid #69c0ff;
+  border-left: 5px solid #2f80ed;
   transition: transform 0.2s ease;
 }
 
@@ -58,13 +58,13 @@ header p {
   border-radius: 8px;
   text-decoration: none;
   font-weight: bold;
-  background: #0b3d91;
+  background: #2f80ed;
   color: white;
   transition: 0.2s;
 }
 
 .buttons a:hover {
-  background: #1257c9;
+  background: #4f9cff;
 }
 
 footer {
