@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f4f8ff;
+  background: #69c0ff;
   color: #0b1b3a;
 }
 
 header {
   text-align: center;
   padding: 50px 20px;
-  background: #0b3d91;
+  background: #69c0ff;
   color: white;
 }
 
@@ -33,7 +33,7 @@ header p {
   border-radius: 14px;
   padding: 20px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-  border-left: 5px solid #0b3d91;
+  border-left: 5px solid #69c0ff;
   transition: transform 0.2s ease;
 }
 
